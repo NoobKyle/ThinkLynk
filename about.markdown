@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
+-
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hey, my name is Kyle - a 16 year old Full-Stack Web Developer.
 
-You can find the source code for Jekyll at
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have been coding for 2.5+ years now and have made many projects some which were not big enough to be put out to the world and are now collecting dust on my hardrives.
 
+I figured there could be someone out there in the world who could need one of the ideas I would have come up with or just think they are cool and would want to make their own version. So I created this site.
 
-[jekyll-organization]: https://github.com/jekyll
+I call it A Home For My Inventions.
+
+These are ideas of creations I would love to build out someday and I can document them here for future referencing.
+
+Take a look around and dont forget to reach out to me on Twitter.
+
+-

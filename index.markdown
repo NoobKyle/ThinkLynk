@@ -4,4 +4,16 @@
 
 layout: home
 ---
-hello
+
+
+# Hey There! 
+-
+
+Thanks for stopping by. This site is a test of my creative ability mixed with some awesome tech.
+My ideas and inventions on how to solve problems I am passionate about. Some may not be well planned out or built out but its the concept of thinking outside the box and mixing solutions that matters to me.  
+
+And here is the home I have built for my Inventions.
+
+Take a look around!
+
+-
