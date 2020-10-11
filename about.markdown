@@ -16,6 +16,6 @@ I call it A Home For My Inventions.
 
 These are ideas of creations I would love to build out someday and I can document them here for future referencing.
 
-Take a look around and dont forget to reach out to me on Twitter.
+Take a look around and don't forget to reach out to me on Twitter.
 
 -

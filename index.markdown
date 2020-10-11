@@ -6,11 +6,11 @@ layout: home
 ---
 
 
-# Hey There! 
+# Hey There!
 -
 
 Thanks for stopping by. This site is a test of my creative ability mixed with some awesome tech.
-My ideas and inventions on how to solve problems I am passionate about. Some may not be well planned out or built out but its the concept of thinking outside the box and mixing solutions that matters to me.  
+My ideas and inventions on how to solve problems I am passionate about. Some may not be well planned out or fully built but its the concepts, thinking outside the box and building solutions that matter, that's important.  
 
 And here is the home I have built for my Inventions.
 
