@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GBV ring"
+title:  "[CD] GBV RING"
 date:   2020-08-21 05:10:47 +0200
 permalink: "/gbvring"
 categories: gbv wireless

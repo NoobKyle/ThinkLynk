@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "[ZN] FREE DONATIONS"
 date:   2020-08-21 05:10:47 +0200
 permalink: "/wocome"
 categories: jekyll update
