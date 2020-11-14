@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /about/
+layout: default
+permalink: /about
 ---
 
 # About
@@ -8,7 +8,7 @@ permalink: /about/
 
 Hey, my name is Kyle - a 16 year old Full-Stack Web Developer.
 
-I have been coding for 2.5+ years now and have made many projects some which were not big enough to be put out to the world and are now collecting dust on my hardrives.
+I have been coding for 3+ years now and have made many projects some which were not big enough to be put out to the world and are now collecting dust on my hardrives.
 
 I figured there could be someone out there in the world who could need one of the ideas I would have come up with or just think they are cool and would want to make their own version. So I created this site.
 
