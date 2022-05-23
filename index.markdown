@@ -6,8 +6,8 @@ layout: home
 ---
 
 
-Thanks for stopping by. This site is a test of my creative ability mixed with some awesome tech.
-My ideas and inventions on how to solve problems I am passionate about. Some may not be well planned out or fully built but its the concepts, thinking outside the box and building solutions that matter, that's important.  
+Thanks for stopping by. This site documents my creative ability mixed with some awesome tech.
+My ideas and inventions on how to solve problems I am passionate about. 
 
 And here is the home I have built for my Inventions.
 
