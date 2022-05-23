@@ -6,7 +6,6 @@ permalink: "/reactredux"
 categories: react redux
 ---
 
-![The Ring](/ThinkLynk/assets/gbvring/gbvring.jpg)
 ## Dev Fail Story
 
 dev fail story is a platform for developer to share their lessons learned through failure in the Tech industry. The Web App is built in React and uses Redux for state with a REST API build in Node.js for its backend.
